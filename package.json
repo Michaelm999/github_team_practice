@@ -1,0 +1,22 @@
+{
+  "name": "github_team_practice",
+  "version": "1.0.0",
+  "description": "Just a file to practice on sharing git hub with",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johndsykes86/github_team_practice.git"
+  },
+  "author": "Johnathon Sykes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johndsykes86/github_team_practice/issues"
+  },
+  "homepage": "https://github.com/johndsykes86/github_team_practice#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
