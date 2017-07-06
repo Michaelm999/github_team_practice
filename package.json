@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/johndsykes86/github_team_practice/issues"
   },
-  "homepage": "https://github.com/johndsykes86/github_team_practice#readme"
+  "homepage": "https://github.com/johndsykes86/github_team_practice#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
